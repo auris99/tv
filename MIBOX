@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://iptv-content.webhop.net/epg.xml.gz"
-#EXTINF:0 https://upload.wikimedia.org/wikipedia/commons/e/ef/TV1_HD.png,TV1 [LT]
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/TV1_HD.png",TV1 [LT]
 #EXTGRP:LV + LT
 http://fr01.spr24.net/785/mpegts?token=PL4izLXkxkuK77
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BTV_HD.png",BTV HD [LT]
