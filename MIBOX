@@ -56,7 +56,6 @@ http://fr01.spr24.net/790/mpegts?token=PL4izLXkxkuK77
 #EXTINF:0 tvg-logo="https://www.telia.lt/medias/tv-logo-smartzone.png?context=bWFzdGVyfGZja0ltYWdlfDU2ODg5fGltYWdlL3BuZ3xmY2tJbWFnZS9oZWMvaGM0Lzg5ODkxNDg3NDE2NjIucG5nfDU5MGI0ZmM2YWY4YWNiM2IxMmQzNTZlNWMzYWNkYjc1NmVkYWI4ODdjNGJmMmJkZTI4ZmM3MGM5OGEzMGIxYzg",Smartzone HD [EE]
 #EXTGRP:LV + LT
 http://fr01.spr24.net/19200/mpegts?token=PL4izLXkxkuK77
----------------------------------
 #EXTINF:0 tvg-logo="http://media.search.lt/GetFile.php?OID=271827&filetype=4",Kidzone+ HD [EE]
 #EXTGRP:LV + LT
 http://fr01.spr24.net/795/mpegts?token=PL4izLXkxkuK77
