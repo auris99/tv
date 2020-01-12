@@ -97,25 +97,3 @@ http://fr01.spr24.net/19200/mpegts?token=LkAfNnQCqLraW3
 #EXTINF:0 tvg-logo="http://media.search.lt/GetFile.php?OID=271827&filetype=4",Kidzone+ HD [EE]
 #EXTGRP:LV + LT
 http://fr01.spr24.net/795/mpegts?token=LkAfNnQCqLraW3
-http://fr01.spr24.net/780/mpegts?token=LkAfNnQCqLraW3
-#EXTINF:0 tvg-logo="http://www.besmegeniai.lt/wp-content/uploads/2019/02/Besmegeniai-Balticum-Platinum.png",Balticum Platinum HD [LT]
-#EXTGRP:LV + LT
-http://fr01.spr24.net/19172/mpegts?token=LkAfNnQCqLraW3
-#EXTINF:0 tvg-logo="https://www.home3.lt/wp-content/uploads/2019/04/3film_logo_RGB_black.png",TV3 Film [LT]
-#EXTGRP:LV + LT
-http://fr01.spr24.net/19173/mpegts?token=LkAfNnQCqLraW3
-#EXTINF:0 tvg-logo="http://tvlt.lt/wp-content/uploads/2015/06/sport1-logo.png",Sport 1 HD [LT]
-#EXTGRP:LV + LT
-http://fr01.spr24.net/794/mpegts?token=LkAfNnQCqLraW3
-#EXTINF:0 tvg-logo="https://www.home3.lt/wp-content/uploads/2018/07/3Sport_logo_color.png",TV3 Sport [LT]
-#EXTGRP:LV + LT
-http://fr01.spr24.net/793/mpegts?token=LkAfNnQCqLraW3
-#EXTINF:0 tvg-logo="https://www.home3.lt/wp-content/uploads/2018/10/TV3Sport2_Logo_color.png",TV3 Sport 2 [LT+LV]
-#EXTGRP:LV + LT
-http://fr01.spr24.net/790/mpegts?token=LkAfNnQCqLraW3
-#EXTINF:0 tvg-logo="https://www.telia.lt/medias/tv-logo-smartzone.png?context=bWFzdGVyfGZja0ltYWdlfDU2ODg5fGltYWdlL3BuZ3xmY2tJbWFnZS9oZWMvaGM0Lzg5ODkxNDg3NDE2NjIucG5nfDU5MGI0ZmM2YWY4YWNiM2IxMmQzNTZlNWMzYWNkYjc1NmVkYWI4ODdjNGJmMmJkZTI4ZmM3MGM5OGEzMGIxYzg",Smartzone HD [EE]
-#EXTGRP:LV + LT
-http://fr01.spr24.net/19200/mpegts?token=LkAfNnQCqLraW3
-#EXTINF:0 tvg-logo="http://media.search.lt/GetFile.php?OID=271827&filetype=4",Kidzone+ HD [EE]
-#EXTGRP:LV + LT
-http://fr01.spr24.net/795/mpegts?token=LkAfNnQCqLraW3
