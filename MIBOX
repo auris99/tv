@@ -10,7 +10,7 @@ http://ch01.spr24.net/19208/mpegts?token=A9UYzu5aD6wpmB
 3***************************************************************************************************
 #EXTINF:0 tvg-logo="https://chorasbelcanto.lt/wp-content/uploads/2019/07/LRT-TV-HD-logo-01.png",LRT Televizija HD [LT]
 #EXTGRP:LV + LT
-http://ch01.spr24.net/19159/mpegts?token=A9UYzu5aD6wpmB
+http://fr01.spr24.net/19159/mpegts?token=A9UYzu5aD6wpmB
 4***************************************************************************************************
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/LRT_PLIUS.webp/833px-LRT_PLIUS.webp.png",LRT Plius HD [LT]
 #EXTGRP:LV + LT
@@ -79,3 +79,4 @@ http://ch01.spr24.net/19200/mpegts?token=A9UYzu5aD6wpmB
 #EXTINF:0 tvg-logo="http://media.search.lt/GetFile.php?OID=271827&filetype=4",Kidzone+ HD [EE]
 #EXTGRP:LV + LT
 http://ch01.spr24.net/795/mpegts?token=A9UYzu5aD6wpmB
+
