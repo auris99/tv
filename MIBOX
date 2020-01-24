@@ -32,7 +32,7 @@ http://fr01.spr24.net/792/mpegts?token=3QkqfDFzrirQYN
 #EXTGRP:LV + LT
 http://fr01.spr24.net/782/mpegts?token=3QkqfDFzrirQYN
 9***************************************************************************************************
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3 [LT]
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Tv3-logo.png",TV3 HD [LT]
 #EXTGRP:LV + LT
 http://fr01.spr24.net/17865/mpegts?token=3QkqfDFzrirQY 
 10***************************************************************************************************
