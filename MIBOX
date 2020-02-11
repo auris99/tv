@@ -79,3 +79,7 @@ http://fr01.spr24.net/19200/mpegts?token=8wrn56xF76Bypa
 #EXTINF:0 tvg-logo="http://media.search.lt/GetFile.php?OID=271827&filetype=4",Kidzone+ HD [EE]
 #EXTGRP:LV + LT
 http://fr01.spr24.net/795/mpegts?token=8wrn56xF76Bypa
+21***************************************************************************************************
+#EXTINF:0 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg", HBO HD [US]
+#EXTGRP:LV + LT
+http://ultraplay.org:80/191225-2cl/154901/52678
