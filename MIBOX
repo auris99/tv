@@ -80,6 +80,6 @@ http://fr01.spr24.net/19200/mpegts?token=8wrn56xF76Bypa
 #EXTGRP:LV + LT
 http://fr01.spr24.net/795/mpegts?token=8wrn56xF76Bypa
 21***************************************************************************************************
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg", HBO HD [US]
+#EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/hbo-logo-png-8.png", HBO HD [US]
 #EXTGRP:LV + LT
 http://ultraplay.org:80/191225-2cl/154901/52678
