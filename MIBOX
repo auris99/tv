@@ -100,7 +100,7 @@ http://fr01.spr24.net/24313/mpegts?token=BdYbcKH2FPiF5v
 #EXTGRP:UK Britain
 http://fr01.spr24.net/24305/mpegts?token=BdYbcKH2FPiF5v
 26***************************************************************************************************
-#EXTINF:0 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nickelodeon-5-logo-png-transparent.png",Discovery History [UK]
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png",Discovery History [UK]
 #EXTGRP:UK Britain
 http://fr01.spr24.net/24164/mpegts?token=BdYbcKH2FPiF5v
 27***************************************************************************************************
