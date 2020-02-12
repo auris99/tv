@@ -64,7 +64,7 @@ http://fr01.spr24.net/19173/mpegts?token=BdYbcKH2FPiF5v
 #EXTGRP:LV + LT
 http://fr01.spr24.net/794/mpegts?token=BdYbcKH2FPiF5v
 17***************************************************************************************************
-#EXTINF:0 tvg-logo="https://www.home3.lt/wp-content/uploads/2018/07/3Sport_logo_color.png",TV3 Sport [LT]
+#EXTINF:0 tvg-logo="https://www.home3.lt/wp-content/uploads/2018/07/3Sport_logo_color.png", TV3 Sport [LT]
 #EXTGRP:LV + LT
 http://fr01.spr24.net/793/mpegts?token=BdYbcKH2FPiF5v
 18***************************************************************************************************
@@ -83,3 +83,11 @@ http://fr01.spr24.net/795/mpegts?token=BdYbcKH2FPiF5v
 #EXTINF:0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/hbo-logo-png-8.png", HBO HD [US]
 #EXTGRP:LV + LT
 http://ultraplay.org:80/191225-2cl/154901/52678
+22***************************************************************************************************
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network [US]
+#EXTGRP:LV + LT
+http://ultraplay.org:80/191225-2cl/154901/52681
+23***************************************************************************************************
+#EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png", Discovery Channel [US]
+#EXTGRP:LV + LT
+http://ultraplay.org:80/191225-2cl/154901/52785
