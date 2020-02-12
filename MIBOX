@@ -96,7 +96,7 @@ http://fr01.spr24.net/24171/mpegts?token=BdYbcKH2FPiF5v
 #EXTGRP:LV + LT
 http://fr01.spr24.net/24313/mpegts?token=BdYbcKH2FPiF5v
 25***************************************************************************************************
-#EXTINF:0 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/nickelodeon-5-logo-png-transparent.png", Nickelodeon [UK]
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1280px-Nickelodeon_2009_logo.svg.png", Nickelodeon [UK]
 #EXTGRP:UK Britain
 http://fr01.spr24.net/24305/mpegts?token=BdYbcKH2FPiF5v
 26***************************************************************************************************
