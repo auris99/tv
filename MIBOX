@@ -86,11 +86,11 @@ http://ultraplay.org:80/191225-2cl/154901/52678
 22***************************************************************************************************
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network [US]
 #EXTGRP:LV + LT
-http://ultraplay.org:80/191225-2cl/154901/52681
+http://fr01.spr24.net/24309/mpegts?token=BdYbcKH2FPiF5v
 23***************************************************************************************************
 #EXTINF:0 tvg-logo="https://www.pngkey.com/png/full/332-3321422_discovery-international-discovery-channel-logo-2017.png", Discovery Channel [US]
 #EXTGRP:LV + LT
-http://ultraplay.org:80/191225-2cl/154901/52785
+http://fr01.spr24.net/24171/mpegts?token=BdYbcKH2FPiF5v
 24***************************************************************************************************
 #EXTINF:0 tvg-logo="https://pngimg.com/uploads/walt_disney/walt_disney_PNG36.png", Disney Channel [US]
 #EXTGRP:LV + LT
