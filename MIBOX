@@ -29,3 +29,5 @@ https://e21.plius.tv:443/n3/video.m3u8
 http://213.226.137.139:81/tl/l713/index.m3u8
 #EXTINF:-1,2TV, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/2TV_%28Lithuania%29_%282020%29.svg/revision/latest/scale-to-width-down/340?cb=20200331145652"
 http://213.226.137.139:81/tl/l8/index.m3u8
+#EXTINF:-1,3 film, tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/3film_logo_RGB_black.png"
+http://cdn.ottg.tv/3127/video.m3u8?token=test
