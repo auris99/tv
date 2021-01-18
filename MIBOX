@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1,3 Sport, tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/TV3sport3_logo_RGB_black.png"
+#EXTINF:-1,3 Sport
+tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/TV3sport3_logo_RGB_black.png"
 http://cdn.ottg.tv/7729/video.m3u8?token=test
 #EXTINF:-1,3 Sport2, tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/TV3sport2_logo_RGB5.png"
 http://cdn.ottg.tv/4490/video.m3u8?token=test
