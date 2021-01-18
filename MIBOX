@@ -20,7 +20,7 @@ http://cdn.ottg.tv/9102/video.m3u8?token=test
 #EXTINF:-1,TV1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/TV1_HD.png/revision/latest/scale-to-width-down/340?cb=20190606124251" tvg-name="TV1"
 http://213.226.137.139:81/tl/l712/index.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1,TV6, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV6_logo_2010.svg/revision/latest/scale-to-width-down/340?cb=20100528185020" tvg-name="TV6"
+#EXTINF:-1,TV 6, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV6_logo_2010.svg/revision/latest/scale-to-width-down/340?cb=20100528185020" tvg-name="TV 6"
 https://e21.plius.tv:443/n128/video.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1,TV8, tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/05/TV8_HD_LOGO.png" tvg-name="TV8"
@@ -38,7 +38,7 @@ http://cdn.ottg.tv/5861/video.m3u8?token=test
 #EXTINF:-1,Delfi Tv, tvg-logo="https://g2.dcdn.lt/vd/i/delfitv-og.png" tvg-name="Delfi Tv"
 https://e21.plius.tv:443/n3/video.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1,INFO TV, tvg-logo="https://www.telia.lt/medias/tv-logo-info-hd.png?context=bWFzdGVyfGZja0ltYWdlfDE5NTM1fGltYWdlL3BuZ3xmY2tJbWFnZS9oZDIvaDY5Lzg5ODkxMzQ4NDgwMzAucG5nfDIyMzA5NmFkNGM4MDkyNmQ3ZDZiNTVhMjgwN2MwZmU0Y2QwNWM5YWViNmNkOWUxMzhjYjM4ODUzNGUzOGIzZjE" tvg-name="INFO TV"
+#EXTINF:-1,INFOTV, tvg-logo="https://www.telia.lt/medias/tv-logo-info-hd.png?context=bWFzdGVyfGZja0ltYWdlfDE5NTM1fGltYWdlL3BuZ3xmY2tJbWFnZS9oZDIvaDY5Lzg5ODkxMzQ4NDgwMzAucG5nfDIyMzA5NmFkNGM4MDkyNmQ3ZDZiNTVhMjgwN2MwZmU0Y2QwNWM5YWViNmNkOWUxMzhjYjM4ODUzNGUzOGIzZjE" tvg-name="INFOTV"
 http://213.226.137.139:81/tl/l713/index.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1,2TV, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/2TV_%28Lithuania%29_%282020%29.svg/revision/latest/scale-to-width-down/340?cb=20200331145652" tvg-name="2TV"
