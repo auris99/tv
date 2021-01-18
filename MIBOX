@@ -1,33 +1,48 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/TV3sport3_logo_RGB_black.png",3 Sport
+#EXTINF:-1, tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/TV3sport3_logo_RGB_black.png" tvg-name="3 Sport" 3 Sport
 http://cdn.ottg.tv/7729/video.m3u8?token=test
-#EXTINF:-1,3 Sport2, tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/TV3sport2_logo_RGB5.png"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,3 Sport2, tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/TV3sport2_logo_RGB5.png" tvg-name="3 Sport2"
 http://cdn.ottg.tv/4490/video.m3u8?token=test
-#EXTINF:-1,SPORT 1, tvg-logo="https://lh3.googleusercontent.com/proxy/zTz688p-3j3ZE4Qt5t2hDi6LtPsja6BJaBr-uEh-LK-orYiIY_VTAd-18PMthslEz1WI_K1gRKBfSJFQ_5c4RlAxU1xDmJroINuI9wvypyDBkhrGa5CDlyPO7uid"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,SPORT 1, tvg-logo="https://lh3.googleusercontent.com/proxy/zTz688p-3j3ZE4Qt5t2hDi6LtPsja6BJaBr-uEh-LK-orYiIY_VTAd-18PMthslEz1WI_K1gRKBfSJFQ_5c4RlAxU1xDmJroINuI9wvypyDBkhrGa5CDlyPO7uid" tvg-name="SPORT 1"
 http://cdn.ottg.tv/4035/video.m3u8?token=test
-#EXTINF:-1,LRT TELEVIZIJA, tvg-logo="https://chorasbelcanto.lt/wp-content/uploads/2019/07/LRT-TV-HD-logo-01.png"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,LRT TELEVIZIJA, tvg-logo="https://chorasbelcanto.lt/wp-content/uploads/2019/07/LRT-TV-HD-logo-01.png" tvg-name="LRT TELEVIZIJA"
 http://cdn.ottg.tv/9055/video.m3u8?token=test
-#EXTINF:-1,LRT PLIUS, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/LRT_PLIUS_sviesiame_fone.png/revision/latest/scale-to-width-down/340?cb=20181011050954"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,LRT PLIUS, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/LRT_PLIUS_sviesiame_fone.png/revision/latest/scale-to-width-down/340?cb=20181011050954" tvg-name="LRT PLIUS"
 http://cdn.ottg.tv/6503/video.m3u8?token=test
-#EXTINF:-1,TV3, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TV3_Group_Logo.svg/1200px-TV3_Group_Logo.svg.png"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,TV3, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TV3_Group_Logo.svg/1200px-TV3_Group_Logo.svg.png" tvg-name="TV3"
 http://cdn.ottg.tv/9102/video.m3u8?token=test
-#EXTINF:-1,TV1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/TV1_HD.png/revision/latest/scale-to-width-down/340?cb=20190606124251"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,TV1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/TV1_HD.png/revision/latest/scale-to-width-down/340?cb=20190606124251" tvg-name="TV1"
 http://213.226.137.139:81/tl/l712/index.m3u8
-#EXTINF:-1,TV6, tvg-logo="https://cdn.imgbin.com/4/2/0/imgbin-tv6-sweden-television-viasat-tv3-others-9vXmTHAHGjYaX2CGrABfyJS0K.jpg"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,TV6, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV6_logo_2010.svg/revision/latest/scale-to-width-down/340?cb=20100528185020" tvg-name="TV6"
 https://e21.plius.tv:443/n128/video.m3u8
-#EXTINF:-1,TV8, tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/05/TV8_HD_LOGO.png"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,TV8, tvg-logo="https://www.cgates.lt/wp-content/uploads/2018/05/TV8_HD_LOGO.png" tvg-name="TV8"
 http://cdn.ottg.tv/3814/video.m3u8?token=test
-#EXTINF:-1,LNK, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/LNK_HD.png/revision/latest/scale-to-width-down/340?cb=20190606125142"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,LNK, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/LNK_HD.png/revision/latest/scale-to-width-down/340?cb=20190606125142" tvg-name="LNK"
 http://cdn.ottg.tv/5900/video.m3u8?token=test
-#EXTINF:-1,BTV, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BTV_HD.png"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,BTV, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BTV_HD.png" tvg-name="BTV"
 https://e21.plius.tv:443/n133/video.m3u8
-#EXTINF:-1,Lietuvos Rytas TV, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Lrtv-logo.png/revision/latest?cb=20181107085055"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,Lietuvos Rytas TV, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Lrtv-logo.png/revision/latest?cb=20181107085055" tvg-name="Lietuvos Rytas TV"
 http://cdn.ottg.tv/5861/video.m3u8?token=test
-#EXTINF:-1,Delfi Tv, tvg-logo="https://g2.dcdn.lt/vd/i/delfitv-og.png"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,Delfi Tv, tvg-logo="https://g2.dcdn.lt/vd/i/delfitv-og.png" tvg-name="Delfi Tv"
 https://e21.plius.tv:443/n3/video.m3u8
-#EXTINF:-1,INFO TV, tvg-logo="https://www.telia.lt/medias/tv-logo-info-hd.png?context=bWFzdGVyfGZja0ltYWdlfDE5NTM1fGltYWdlL3BuZ3xmY2tJbWFnZS9oZDIvaDY5Lzg5ODkxMzQ4NDgwMzAucG5nfDIyMzA5NmFkNGM4MDkyNmQ3ZDZiNTVhMjgwN2MwZmU0Y2QwNWM5YWViNmNkOWUxMzhjYjM4ODUzNGUzOGIzZjE"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,INFO TV, tvg-logo="https://www.telia.lt/medias/tv-logo-info-hd.png?context=bWFzdGVyfGZja0ltYWdlfDE5NTM1fGltYWdlL3BuZ3xmY2tJbWFnZS9oZDIvaDY5Lzg5ODkxMzQ4NDgwMzAucG5nfDIyMzA5NmFkNGM4MDkyNmQ3ZDZiNTVhMjgwN2MwZmU0Y2QwNWM5YWViNmNkOWUxMzhjYjM4ODUzNGUzOGIzZjE" tvg-name="INFO TV"
 http://213.226.137.139:81/tl/l713/index.m3u8
-#EXTINF:-1,2TV, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/2TV_%28Lithuania%29_%282020%29.svg/revision/latest/scale-to-width-down/340?cb=20200331145652"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,2TV, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/2TV_%28Lithuania%29_%282020%29.svg/revision/latest/scale-to-width-down/340?cb=20200331145652" tvg-name="2TV"
 http://213.226.137.139:81/tl/l8/index.m3u8
-#EXTINF:-1,3 film, tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/3film_logo_RGB_black.png"
+-----------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1,3 film, tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/3film_logo_RGB_black.png" tvg-name="3 film"
 http://cdn.ottg.tv/3127/video.m3u8?token=test
