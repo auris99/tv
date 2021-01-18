@@ -14,7 +14,7 @@ http://cdn.ottg.tv/9055/video.m3u8?token=test
 #EXTINF:-1,LRT PLIUS, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/LRT_PLIUS_sviesiame_fone.png/revision/latest/scale-to-width-down/340?cb=20181011050954" tvg-name="LRT PLIUS"
 http://cdn.ottg.tv/6503/video.m3u8?token=test
 -----------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1,tv3-lt, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TV3_Group_Logo.svg/1200px-TV3_Group_Logo.svg.png" tvg-name="tv3-lt"
+#EXTINF:-1,tv3-lt, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TV3_Group_Logo.svg/1200px-TV3_Group_Logo.svg.png" tvg-name="TV3"
 http://cdn.ottg.tv/9102/video.m3u8?token=test
 -----------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1,TV1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/TV1_HD.png/revision/latest/scale-to-width-down/340?cb=20190606124251" tvg-name="TV1"
