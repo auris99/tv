@@ -32,7 +32,7 @@ http://cdn.ottg.tv/5900/video.m3u8?token=test
 #EXTINF:-1,BTV, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BTV_HD.png" tvg-name="BTV"
 https://e21.plius.tv:443/n133/video.m3u8
 -----------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1,Lietuvos Rytas TV, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Lrtv-logo.png/revision/latest?cb=20181107085055" tvg-name="Lietuvos Rytas TV"
+#EXTINF:-1,lietuvos-ryto-televizija, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Lrtv-logo.png/revision/latest?cb=20181107085055" tvg-name="lietuvos-ryto-televizija"
 http://cdn.ottg.tv/5861/video.m3u8?token=test
 -----------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1,Delfi Tv, tvg-logo="https://g2.dcdn.lt/vd/i/delfitv-og.png" tvg-name="Delfi Tv"
