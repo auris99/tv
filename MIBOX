@@ -1,4 +1,4 @@
-#EXTM3U #EURL=TVG”https://iptvx.one/epg/epg.xml.gz”
+#EXTM3U #EURL=TVG”http://www.teleguide.info/download/new3/xmltv.xml.gz”
 #EXTINF:-1, tvg-logo="https://www.tv3.lt/Uploads/image/tv3grupeslogotipai/TV3sport3_logo_RGB_black.png" tvg-name="3 Sport" 3 Sport
 http://cdn.ottg.tv/7729/video.m3u8?token=test
 -----------------------------------------------------------------------------------------------------------------------------------
